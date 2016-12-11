@@ -1,2 +1,3 @@
 # Srt
-Sub title - modification
+Examples:
+python AdjustTime.py "filename" secondsToAdjust
